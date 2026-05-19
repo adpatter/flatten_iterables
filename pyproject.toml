@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "flatten_iterables"
 dynamic = ["version"]
 authors = [
-  { name="Adam Patterson", email="adam@farar.net" },
+  { name="Adam Patterson", email="adpatter@umich.edu" },
 ]
 description = "Flatten iterables and mappings into a dictionary of reference paths and values."
 readme = "README.md"
