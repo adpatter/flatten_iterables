@@ -18,8 +18,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/faranalytics/flatten_iterables.git"
-"Bug Tracker" = "https://github.com/faranalytics/flatten_iterables/issues"
+"Homepage" = "https://github.com/far-analytics/flatten_iterables.git"
+"Bug Tracker" = "https://github.com/far-analytics/flatten_iterables/issues"
 
 [tool.hatch.version]
 path = "src/flatten_iterables/__about__.py"
